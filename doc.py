@@ -6,7 +6,7 @@ import os
 import sys
 
 # Set up OpenAI API credentials
-openai.api_key = "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" 
+openai.api_key = "<TOKEN>" 
 
 # Define a class to handle the command-line interface
 class DocCLI(cmd.Cmd):
